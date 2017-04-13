@@ -1,0 +1,1 @@
+java -cp .;commons-io-2.4.jar;wink-json4j-1.3.0.jar BwlBulkRegistration YOURUSERNAME YOURPASSWORD YOURACCOUNT demo
